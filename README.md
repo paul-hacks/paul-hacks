@@ -9,9 +9,9 @@
 <br/>
 
 <a href="mailto:abinpaulv.work@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<img alt="Profile views" src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0ea5e9&style=for-the-badge" />
-<img alt="Followers" src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&label=Followers&color=1e293b" />
+<a href="https://linkedin.com/in/abinpaulv"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=paul-hacks&label=Profile%20views&color=0ea5e9&style=for-the-badge" />
+<img alt="Followers" src="https://img.shields.io/github/followers/paul-hacks?style=for-the-badge&logo=github&label=Followers&color=1e293b" />
 
 </div>
 
@@ -154,10 +154,10 @@ flowchart LR
 ## 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_1">
+  <a href="https://github.com/paul-hacks/REPO_NAME_1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" width="48%" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME_2">
+  <a href="https://github.com/paul-hacks/REPO_NAME_2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" width="48%" />
   </a>
 </p>
@@ -166,8 +166,8 @@ flowchart LR
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=paul-hacks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paul-hacks&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -186,8 +186,8 @@ I'm always glad to talk about infrastructure, test automation, or cloud and endp
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:abinpaulv.work@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/Abinpaulv"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=120&section=footer" width="100%" alt="Footer banner" />
 
