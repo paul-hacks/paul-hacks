@@ -1,22 +1,14 @@
-<!-- ====================================================================
-  HOW TO USE
-  1. Create a public repo named exactly like your GitHub username.
-  2. Add this file as README.md in that repo.
-  3. Replace the 3 placeholders below:
-       YOUR_GITHUB_USERNAME   YOUR_EMAIL@example.com   YOUR_LINKEDIN
-===================================================================== -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=230&section=header&text=Abin%20Paul&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Infrastructure%20Engineer%20%C2%B7%20QA%20Automation%20%C2%B7%20Cloud%20Architect&descSize=19&descAlignY=60" width="100%" alt="Abin Paul header banner" />
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/paul-hacks">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&height=45&lines=Designing+resilient+networks;Automating+QA+pipelines;Deploying+scalable+cloud+infrastructure;Turning+manual+work+into+repeatable+systems" alt="Typing animation of core focus areas" />
 </a>
 
 <br/>
 
-<a href="mailto:YOUR_EMAIL@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:abinpaulv.work@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <img alt="Profile views" src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0ea5e9&style=for-the-badge" />
 <img alt="Followers" src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&label=Followers&color=1e293b" />
